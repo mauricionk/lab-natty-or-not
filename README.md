@@ -1,51 +1,66 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de dieta com 2000 kcal
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma dieta utilizando IA generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Chat gpt para criar a dieta
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A criação de uma dieta de 2000 calorias pode ser personalizada de acordo com os seus objetivos e preferências alimentares. Vou criar uma sugestão de plano de alimentação equilibrado, com um mix de macronutrientes (carboidratos, proteínas e gorduras saudáveis) para garantir que você tenha energia ao longo do dia, sem comprometer a qualidade nutricional.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### **Plano de Dieta de 2000 Kcal**
 
-### Exemplos e Insigths
+#### **Café da Manhã (aproximadamente 450 kcal)**  
+- **1 fatia de pão integral** (80 kcal)  
+- **2 ovos mexidos com 1 colher de chá de azeite de oliva** (180 kcal)  
+- **1 banana média** (90 kcal)  
+- **1 xícara de café preto sem açúcar** (0 kcal)  
+- **1 colher de sopa de pasta de amendoim** (100 kcal)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+#### **Lanche da Manhã (aproximadamente 200 kcal)**
+- **1 maçã média** (80 kcal)  
+- **20g de amêndoas (aproximadamente 10 unidades)** (120 kcal)
 
-## Links Interessantes
+#### **Almoço (aproximadamente 600 kcal)**
+- **150g de peito de frango grelhado** (180 kcal)  
+- **1 xícara de arroz integral cozido** (150 kcal)  
+- **1/2 xícara de brócolis cozidos** (25 kcal)  
+- **1 colher de sopa de azeite de oliva (para temperar ou cozinhar)** (120 kcal)  
+- **1 tomate médio fatiado com tempero (limão, sal, orégano)** (40 kcal)  
+- **1/2 abacate (aproximadamente 80g)** (180 kcal)
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+#### **Lanche da Tarde (aproximadamente 250 kcal)**
+- **1 iogurte grego natural sem açúcar (150g)** (90 kcal)  
+- **1 colher de sopa de mel** (60 kcal)  
+- **15g de granola** (100 kcal)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+#### **Jantar (aproximadamente 500 kcal)**
+- **150g de filé de salmão grelhado** (280 kcal)  
+- **1/2 xícara de quinoa cozida** (110 kcal)  
+- **Salada de folhas verdes com pepino, alface e azeite de oliva (1 colher de chá)** (50 kcal)  
+- **1 fatia de melancia** (60 kcal)
+
+#### **Ceia (aproximadamente 100 kcal)**
+- **1 fatia de queijo branco (50g)** (100 kcal)
+
+---
+
+### **Distribuição dos Macronutrientes:**
+- **Carboidratos**: 45-50% das calorias totais (~900 kcal ou 225g)
+- **Proteínas**: 25-30% das calorias totais (~500-600 kcal ou 120g)
+- **Gorduras**: 25-30% das calorias totais (~500-600 kcal ou 55-70g)
+
+### **Observações:**
+- **Variedade**: A ideia é incluir uma boa quantidade de alimentos variados, como frutas, vegetais, proteínas magras e gorduras saudáveis, para garantir que você tenha uma alimentação balanceada.
+- **Ajustes**: Se você tiver algum objetivo específico (como ganho de massa muscular, emagrecimento, etc.), os macronutrientes podem ser ajustados. Para emagrecimento, por exemplo, seria interessante diminuir um pouco os carboidratos e aumentar as proteínas.
+- **Hidratação**: Não se esqueça de beber bastante água ao longo do dia (aproximadamente 2 a 3 litros, dependendo da sua necessidade).
+
+Caso tenha preferências alimentares específicas ou queira alterar algum item, posso fazer ajustes conforme necessário!
+
+## 💭 Reflexão 
+A IA é uma poderosa ferramenta, porém deve ser utilizado com muito cuidado.
